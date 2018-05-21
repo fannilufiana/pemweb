@@ -50,6 +50,7 @@ form {
     color: white;
     background: #5F9EA0;
     border: none;
+	font-family: arial;
     border-radius: 5px;
 }
 .edit_btn {

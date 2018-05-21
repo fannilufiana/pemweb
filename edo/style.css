@@ -3,27 +3,9 @@
     padding: 0px;
 }
 body {
-    font-size: 19px;
+    font-size: 120%;
     background: #F8F8FF;
 }
-table {
-	width: 50%;
-	margin: 30px auto;
-	border-collapse: collapse;
-	text-align: left;
-}
-tr {
-	border-bottom: 1px solid #cbcbcb;
-}
-th, td {
-	border: none;
-	height: 30px;
-	padding: 2px;
-}
-tr:hover {
-	background: #F5F5F5;
-}
-
 .header {
     width: 30%;
     margin: 50px auto 0px;
@@ -36,8 +18,8 @@ tr:hover {
     padding: 20px;
 }
 form, .content {
-	width: 50%;
-	margin: 50px auto;
+	width: 30%;
+	margin: 0px auto;
 	padding: 20px;
 	border: 1px solid #B0C4DE;
 	background: white;
@@ -53,7 +35,7 @@ form, .content {
 	margin: 3px;
 }
 .input-group input {
-	height: block;
+	height: 30px;
 	width: 93%;
 	padding: 5px 10px;
 	font-size: 16px;
@@ -77,20 +59,6 @@ form, .content {
 	border: 1px solid #3c763d;
 	width: 50%;
 	text-align: center;
-}
-.edit_btn {
-	text-decoration: none;
-	padding: 2px 5px;
-	background: #2E8B57;
-	color: white;
-	border-radius: 3px;
-}
-.del_btn {
-	text-decoration: none;
-	padding: 2px 5px;
-	color: white;
-	border-radius: 3px;
-	background: #800000;
 }
 
 .error {

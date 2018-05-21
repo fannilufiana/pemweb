@@ -48,7 +48,7 @@ h1,h2,h3,h4,h5,h6 {
     </div>
   </div>
 </nav>
-
+</body>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:1100px">

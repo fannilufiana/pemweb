@@ -76,6 +76,7 @@
 				<button class="btn" type="submit" name="update" style="background: #556B2F;" >Update</button>
 			<?php else: ?>
 				<button class="btn" type="submit" name="save" >Save</button>
+				<a href="../" style="text-decoration: none; color: #fff; font-family: arial; font-size: 15px; background: #5F9EA0; margin-top:2px; padding: 10.5px 10px; border-radius: 4px;">Back</a>
 			<?php endif ?>
 		</div>
 	</form>

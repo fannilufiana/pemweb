@@ -41,10 +41,10 @@ h1,h2,h3,h4,h5,h6 {
       <ul class="nav navbar-nav">
         <li class="active"><a href="#home">Home</a></li>
         <li><a href="about.php" class="w3-bar-item w3-button">About Us</a></li>
-        <li><a href="crud/crud.php" class="w3-bar-item w3-button">Reservation Order</a></li>
+		<li><a href="crud/crud.php" class="w3-bar-item w3-button">Reservation Order</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="form.html"><span class="glyphicon glyphicon-user"></span> Login</a></li>
+        <li><a href="../index.php?logout='1'"><span class="glyphicon glyphicon-user"></span> Logout</a></li>
       </ul>
     </div>
   </div>
