@@ -32,6 +32,8 @@
 		<?php if (isset($_SESSION["username"])): ?>
 			<p>Welcome <strong><?php echo $_SESSION['username']; ?></strong></p>
 			<p><a href="index.php?logout='1'" style="color: red;">Logout</a></p>
+			<br>
+			<a href="logged/home.php" style="text-decoration: none; color: #fff; font-family: arial; font-size: 15px; background: #5F9EA0; margin-top:2px; padding: 10.5px 10px; border-radius: 4px;">Home</a>
 		<?php endif ?>
 		</div>
 </body>

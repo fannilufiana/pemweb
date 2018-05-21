@@ -58,7 +58,7 @@
 				$_SESSION['success'] = "You are now logged in";
 				header('location: index.php'); //redirect to home page
 			}else {
-				array_push($errors, "wrong username/password combination");
+				array_push($errors,"wrong username/password combination");
 				header('location: login.php');
 			}
 		}

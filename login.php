@@ -23,6 +23,7 @@
 		</div>
 		<div class="input-group">
 			<button type="submit" name="login" class="btn">Login</button>
+			<a href="home.php" style="text-decoration: none; color: #fff; font-family: arial; font-size: 15px; background: #5F9EA0; margin-top:2px; padding: 10.5px 10px; border-radius: 4px;">Back</a>
 		</div>
 		<p>
 			Belum menjadi anggota? <a href="register.php">Register</p>
